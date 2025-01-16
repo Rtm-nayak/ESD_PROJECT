@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #007bff;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+header nav a {
+  color: #fff;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+h2 {
+  color: #333;
+}
+
+#skills, #register {
+  margin: 20px;
+}
